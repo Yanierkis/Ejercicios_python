@@ -1,4 +1,4 @@
 # Ejercicios_python
 Ejercicios de Python
 
-Exercise 1.py
+exercise1.py
